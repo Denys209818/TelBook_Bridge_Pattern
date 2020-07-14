@@ -1,0 +1,10 @@
+﻿  Color.cpp
+  Cool.cpp
+  CoolTelBook.cpp
+  Main.cpp
+  MinTelBook.cpp
+  Simple.cpp
+  TelBook.cpp
+  Создание кода...
+C:\Users\Denis\Desktop\Новая папка\Bridge_pattern\Bridge_pattern\Main.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Bridge_pattern.vcxproj -> C:\Users\Denis\Desktop\Новая папка\Bridge_pattern\x64\Debug\Bridge_pattern.exe
